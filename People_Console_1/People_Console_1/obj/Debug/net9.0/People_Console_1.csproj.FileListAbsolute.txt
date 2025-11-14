@@ -1,0 +1,14 @@
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\bin\Debug\net9.0\People_Console_1.exe
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\bin\Debug\net9.0\People_Console_1.deps.json
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\bin\Debug\net9.0\People_Console_1.runtimeconfig.json
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\bin\Debug\net9.0\People_Console_1.dll
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\bin\Debug\net9.0\People_Console_1.pdb
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.AssemblyInfoInputs.cache
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.AssemblyInfo.cs
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.csproj.CoreCompileInputs.cache
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.dll
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\refint\People_Console_1.dll
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.pdb
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\People_Console_1.genruntimeconfig.cache
+D:\Programming\RUPP\C# Review\People_Console_1\People_Console_1\obj\Debug\net9.0\ref\People_Console_1.dll
