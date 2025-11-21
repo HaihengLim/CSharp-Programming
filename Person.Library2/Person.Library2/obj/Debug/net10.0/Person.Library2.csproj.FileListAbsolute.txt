@@ -1,0 +1,11 @@
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\bin\Debug\net10.0\Person.Library2.deps.json
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\bin\Debug\net10.0\Person.Library2.dll
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\bin\Debug\net10.0\Person.Library2.pdb
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\Person.Library2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\Person.Library2.AssemblyInfoInputs.cache
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\Person.Library2.AssemblyInfo.cs
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\Person.Library2.csproj.CoreCompileInputs.cache
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\Person.Library2.dll
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\refint\Person.Library2.dll
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\Person.Library2.pdb
+D:\Programming\RUPP\C# Library\Person.Library2\Person.Library2\obj\Debug\net10.0\ref\Person.Library2.dll
