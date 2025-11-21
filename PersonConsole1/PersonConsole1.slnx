@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Person.Library2/Person.Library2/Person.Library2.csproj" />
+  <Project Path="PersonConsole1/PersonConsole1.csproj" />
+</Solution>
