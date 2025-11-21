@@ -1,4 +1,6 @@
-﻿using Person.Library2;
+// This program need Person.Library2
+
+using Person.Library2;
 
 namespace PersonConsole1;
 
@@ -72,3 +74,4 @@ internal class Program
         }
     }
 }
+
