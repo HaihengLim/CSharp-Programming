@@ -11,7 +11,7 @@ public abstract class Program
 		list.Deleted += (s, stu) => Console.WriteLine($"Student Deleted Name: {stu.Name}");
 
 		list.Add(new Student(1, "Haiheng", "Male", 100));
-		list.Add(new Student(2, "Nika", "Female", 100));
+		list.Add(new Student(2, "Hinata Hyuga", "Female", 100));
 		
 		PrintStudent(list);
 
@@ -19,6 +19,9 @@ public abstract class Program
 		PrintStudent(list);
 
 		list.Delete(2);
+		PrintStudent(list);
+
+		list.Add(new Student(1, "Kamado Tanjiro", "Male", 80));
 		PrintStudent(list);
 	}
 
