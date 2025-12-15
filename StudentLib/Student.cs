@@ -1,3 +1,5 @@
+namespace StudentLib;
+
 public class Student
 {
   private const int IdFieldWidth = -8;
