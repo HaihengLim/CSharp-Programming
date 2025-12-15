@@ -13,9 +13,11 @@ public abstract class Program
 
 		Product pro1 = new Product(1, "DELL", 2, 349);
 		Product pro2 = new Product(2, "MSI", 3, 699);
+		Product pro3 = new Product(3, "ASUS", 3, 799);
 
 		list.Add(pro1);
 		list.Add(pro2);
+		list.Add(pro3);
 		
 		PrintProducts(list, p);
 
