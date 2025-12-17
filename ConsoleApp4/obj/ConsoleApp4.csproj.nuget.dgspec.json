@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JetBrains\\C# Rider\\ConsoleApp4\\ConsoleApp4.csproj": {}
+    "D:\\JetBrains\\C# Rider\\C# ConsoleApp\\ConsoleApp4\\ConsoleApp4.csproj": {}
   },
   "projects": {
-    "D:\\JetBrains\\C# Rider\\ConsoleApp4\\ConsoleApp4.csproj": {
+    "D:\\JetBrains\\C# Rider\\C# ConsoleApp\\ConsoleApp4\\ConsoleApp4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JetBrains\\C# Rider\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectUniqueName": "D:\\JetBrains\\C# Rider\\C# ConsoleApp\\ConsoleApp4\\ConsoleApp4.csproj",
         "projectName": "ConsoleApp4",
-        "projectPath": "D:\\JetBrains\\C# Rider\\ConsoleApp4\\ConsoleApp4.csproj",
+        "projectPath": "D:\\JetBrains\\C# Rider\\C# ConsoleApp\\ConsoleApp4\\ConsoleApp4.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\JetBrains\\C# Rider\\ConsoleApp4\\obj\\",
+        "outputPath": "D:\\JetBrains\\C# Rider\\C# ConsoleApp\\ConsoleApp4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
