@@ -30,6 +30,9 @@ abstract class Program
 
 		list.Initialize("Student.txt");
 		PrintStudent(list);
+
+		list.Delete(2);
+		PrintStudent(list);
 	}
 
 	static void PrintStudent(StudentList? stuList)
